@@ -3,7 +3,7 @@ plus <- function(a, b)
   return(a*b);
 }
 
-test <- function()
+testFunction <- function()
 {
   return(999);
 }
