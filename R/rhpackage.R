@@ -1,4 +1,4 @@
-testFunction <- function(a=999)
+plus <- function(a, b)
 {
-  return(a);
+  return(a*b);
 }
