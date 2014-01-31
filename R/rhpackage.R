@@ -1,4 +1,4 @@
 plus <- function(a, b)
 {
-  return(a*b/a);
+  return(a*b/a*b);
 }
